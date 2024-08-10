@@ -6,9 +6,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakrithi14&show_icons=true&locale=en&layout=compact" alt="prakrithi14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakrithi14&" alt="prakrithi14" /></p>
-<style>
-  h1{
-    align: center;
-     
-    }
- </style>
+
