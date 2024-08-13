@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">Hi EveryOne👋 ,I'm Prakrithi
-  </a>
+  Hi EveryOne👋 ,I'm Prakrithi
+  
 </h1>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -8,5 +8,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakrithi14&show_icons=true&locale=en&layout=compact" alt="prakrithi14" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakrithi14&" alt="prakrithi14" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakrithi14" alt="prakrithi14" /></p>
 
