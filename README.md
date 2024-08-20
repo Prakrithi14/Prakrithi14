@@ -1,5 +1,5 @@
-<h1 align="center">
-  Hi EveryOne👋 ,I'm Prakrithi
+<h1 align="center"><i><b>
+  Hi EveryOne👋 ,I'm Prakrithi</i></b>
 </h1>
 
 
