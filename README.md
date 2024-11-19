@@ -1,6 +1,6 @@
 <h1 align="center"><i><b>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Hii+Everyone+👋"/></a>
- <marquee> I'm Prakrithi</i></b></marquee>
+ <i>I'm Prakrithi</i>
 </h1>
 
 
